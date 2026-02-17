@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-말하는 감자입니다.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F22cool&count_bg=%23FF9847&title_bg=%233D61A7&icon=&icon_color=%23D10303&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2cool&show_icons=true&theme=radical)
-
 <!--
 **22cool/22cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
